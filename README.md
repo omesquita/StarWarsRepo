@@ -2,4 +2,4 @@
 
 ![./image_star_wars.png](TIE_Figther)
 
-Este repositório serve de exemplo para o curso e Git e GitHub
+Este repositório serve de exemplo para o curso e Git e GitHub.
